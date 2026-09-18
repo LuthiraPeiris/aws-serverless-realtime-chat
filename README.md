@@ -419,7 +419,7 @@ Add the project architecture diagram to the repository and reference it
 here:
 
 ``` markdown
-![Serverless Chat Architecture](./architecture/architecture-diagram.png)
+![Serverless Chat Architecture](./architecture/diagram.png)
 ```
 
 ## 🎯 Learning Objectives
