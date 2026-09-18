@@ -9,7 +9,7 @@ AWS-managed serverless backend.
 
 ## 🏗️ Architecture
 
-![Image Alt](architecture\diagram.png)
+![Image Alt]([architecture\diagram.png](https://github.com/LuthiraPeiris/aws-serverless-realtime-chat/blob/fbf783db63da3cad84fc4f466a262c895a2ead37/architecture/diagram.png))
 
 
 The application uses four core AWS services:
